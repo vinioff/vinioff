@@ -1,3 +1,6 @@
+<div style="display: flex; align-items: center;">
+  
+
 # Bem vindo ao meu perfil!
 ## (●'◡'●) Sobre mim
 
@@ -22,12 +25,15 @@ Sou um técnico de desenvolvimento de sistemas especializado em **Full Stack**, 
   - Design de interfaces e prototipagem para web e aplicativos móveis, com experiência em UI/UX.
 
 ### 🌐 Desenvolvimento Web
-- **🌐 HTML**
-  - Criação de estruturas semânticas e acessíveis para páginas web.
-- **🎨 CSS**
-  - Estilização e design de páginas web, com foco em layouts responsivos e compatibilidade entre navegadores.
-- **⚙️ JavaScript**
-  - Desenvolvimento de funcionalidades interativas e dinâmicas em páginas web.
+## Front-end
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Back-end
+
 
 ### 🚀 Frameworks e Bibliotecas
 - **⚛️ ReactJS**
@@ -36,10 +42,20 @@ Sou um técnico de desenvolvimento de sistemas especializado em **Full Stack**, 
   - Criação de aplicativos móveis multiplataforma com desempenho nativo.
 
 ### 🔧 Back-End e Banco de Dados
-- **🐘 PHP**
-  - Desenvolvimento de aplicações web dinâmicas e seguras, integração com bancos de dados e APIs.
-- **🗄️ MySQL**
-  - Design, gerenciamento e otimização de bancos de dados relacionais.
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+
+
+<div>
+    <a href="https://github.com/raulxmoreira">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulxmoreira&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/raulxmoreiras">
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raulxmoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </a>
+</div>
 
 ### 🗂️ Controle de Versão
 - **🐙 Git**
@@ -51,6 +67,7 @@ Sou um técnico de desenvolvimento de sistemas especializado em **Full Stack**, 
 
 Estou sempre em busca de novas oportunidades e desafios. Se você quiser saber mais sobre meu trabalho ou discutir um projeto, sinta-se à vontade para entrar em contato.
 - **🔗 Links**
+  - Email: viniciusvieiradacosta33@gmail.com
 
 [![20Facebook](https://img.shields.io/badge/•%20Facebook-blue?style=for-the-badge&logo=•%20Facebook&logoColor=white)](https://www.facebook.com/vinicius.viera.9674)
 
@@ -58,5 +75,5 @@ Estou sempre em busca de novas oportunidades e desafios. Se você quiser saber m
 [![instagram](https://img.shields.io/badge/instagram-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viny_offh/)
 
 
----
+</div>
 
