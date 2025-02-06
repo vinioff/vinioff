@@ -4,7 +4,7 @@
 # Bem vindo ao meu perfil!
 ## (●'◡'●) Sobre mim
 
-Sou um técnico de desenvolvimento de sistemas especializado em **Full Stack**, formado pelo **SENAI Jacob Lafer**. Tenho 19 anos e estou cursando na Escola SENAI "Armando de Arruda Pereira" em São Caetano Sul o curso superior de Análise e desenvolvimento de sistemas. Estou preparado para aplicar minhas habilidades em projetos que exigem tanto criatividade quanto competência técnica.
+Sou um técnico de desenvolvimento de sistemas especializado em **Full Stack**, formado pelo **SENAI Jacob Lafer**. Tenho 19 anos e estou cursando na Escola **SENAI "Armando de Arruda Pereira" em São Caetano Sul** o curso superior de Análise e desenvolvimento de sistemas. Estou preparado para aplicar minhas habilidades em projetos que exigem tanto criatividade quanto competência técnica.
 
 ## Habilidades
 
