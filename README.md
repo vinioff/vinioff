@@ -45,7 +45,16 @@ Sou um técnico de desenvolvimento de sistemas especializado em **Full Stack**, 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+ <div style="height:2; width: 100; background-color:'white'"></div>
 
+  ### 🥇 Projeto 1: Cat-Assist
+  Descrição: Site desenvolvido com React.js, React-Native, Firebase e Gemini AI como tecnologias principais. Esse projeto em questão foi feito em uma equipe de desenvolvimento de soluções tecnológicas web e mobile, com 10 integrantes, na qual eu ocupei a função de desenvolver as telas mobile, desenvolvedor e revisor. Dá uma olhada lá ✅
+
+  Versão Web
+  - GitHub: [Cat-Assist-Web](https://github.com/PabloCamiloJesus/cat-assist-web)
+
+  Versão Mobile
+  - GitHub: [Cat-Assist-Mobile](https://github.com/PabloCamiloJesus/CAT-Assist-Mobile)
 
 
 ### 🗂️ Controle de Versão
