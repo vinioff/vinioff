@@ -1,79 +1,95 @@
 <div style="display: flex; align-items: center;">
   
+# 👋 Bem-vindo! Eu sou Vinicius 🚀  
 
-# Bem vindo ao meu perfil!
 ## (●'◡'●) Sobre mim
 
-Sou um técnico de desenvolvimento de sistemas especializado em **Full Stack**, formado pelo **SENAI Jacob Lafer**. Tenho 19 anos e estou cursando na Escola **SENAI "Armando de Arruda Pereira" em São Caetano Sul** o curso superior de Análise e desenvolvimento de sistemas. Estou preparado para aplicar minhas habilidades em projetos que exigem tanto criatividade quanto competência técnica.
+Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e soluções criativas.  
+Formado como **Técnico em Desenvolvimento de Sistemas pelo SENAI Jacob Lafer**, atualmente curso **Análise e Desenvolvimento de Sistemas** no **SENAI "Armando de Arruda Pereira"**.  
 
-## Habilidades
+💡 Minha missão é unir **criatividade** com **competência técnica**, trazendo impacto real através de projetos web, mobile e BI.  
 
-### 🖥️ Sistemas Operacionais
-- **🪟 Windows**
-  - Experiência com instalação, configuração e gerenciamento de sistemas Windows.
+---
 
-### 📊 Pacote Microsoft Office
-- **📊 Excel**
-  - Criação e gerenciamento de planilhas, uso de fórmulas complexas, gráficos e tabelas dinâmicas.
-- **📑 PowerPoint**
-  - Desenvolvimento de apresentações atraentes e organizadas, com foco em design e clareza de conteúdo.
+## 🛠️ Minhas Ferramentas e Tecnologias
 
-### 🎨 Design Gráfico
-- **🖼️ Adobe Photoshop**
-  - Edição e criação de gráficos e imagens, manipulação de camadas, efeitos visuais e correção de cores.
-- **🎨 Figma**
-  - Design de interfaces e prototipagem para web e aplicativos móveis, com experiência em UI/UX.
+<table>
+  <tr>
+    <td align="center" width="180"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Banco de Dados</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ferramentas & Metodologias</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=scrum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kanban-0078D4?style=for-the-badge&logo=trello&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-### 🌐 Desenvolvimento Web
-## Front-end
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-## Back-end
+---
+## 🏆 Projeto em Destaque
 
+### 🐱 Cat-Assist
+📌 **Descrição:** Projeto desenvolvido para o **SESI**, em complemento ao serviço oferecido pelo **CAT 166**.  
+A proposta foi criar um **site** e um **aplicativo mobile** que facilitassem o acesso às informações e ampliassem as formas de atendimento.  
 
-### 🚀 Frameworks e Bibliotecas
-- **⚛️ ReactJS**
-  - Desenvolvimento de interfaces de usuário eficientes e escaláveis utilizando componentes reutilizáveis.
-- **📱 React Native**
-  - Criação de aplicativos móveis multiplataforma com desempenho nativo.
+✨ O destaque fica para o **Chatbot inteligente**, que trouxe mais agilidade, disponibilidade 24/7 e eficiência no suporte ao cliente.  
+👉 Atuei como **desenvolvedor mobile**, **web** e também participei do **design das interfaces**, garantindo uma experiência moderna e acessível.  
 
-### 🔧 Back-End e Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- 🌐 [Cat-Assist-Web](https://github.com/PabloCamiloJesus/cat-assist-web)  
+- 📱 [Cat-Assist-Mobile](https://github.com/PabloCamiloJesus/CAT-Assist-Mobile)  
 
- <div style="height:2; width: 100; background-color:'white'"></div>
+---
 
-  ### 🥇 Projeto 1: Cat-Assist
-  Descrição: Site desenvolvido com React.js, React-Native, Firebase e Gemini AI como tecnologias principais. Esse projeto em questão foi feito em uma equipe de desenvolvimento de soluções tecnológicas web e mobile, com 10 integrantes, na qual eu ocupei a função de desenvolver as telas mobile, desenvolvedor e revisor. Dá uma olhada lá ✅
+### 🦈 Sharks Sports
+📌 **Descrição:** Uma loja online para o mundo fitness 💪, desenvolvida em **PHP**.  
+O projeto foi pensado para ser prático, funcional e cheio de energia, assim como o universo esportivo.  
 
-  Versão Web
-  - GitHub: [Cat-Assist-Web](https://github.com/PabloCamiloJesus/cat-assist-web)
+- 🛍️ [Sharks Sports](https://github.com/vinioff/sharksports)
 
-  Versão Mobile
-  - GitHub: [Cat-Assist-Mobile](https://github.com/PabloCamiloJesus/CAT-Assist-Mobile)
-
-
-### 🗂️ Controle de Versão
-- **🐙 Git**
-  - Controle de versão e gerenciamento de código, com práticas de branching e merging.
-- **🌍 GitHub**
-  - Hospedagem de repositórios, colaboração em projetos open-source e uso de pull requests, issues e workflows automatizados.
+---
 
 ## 📞 Contato
 
-Estou sempre em busca de novas oportunidades e desafios. Se você quiser saber mais sobre meu trabalho ou discutir um projeto, sinta-se à vontade para entrar em contato.
-- **🔗 Links**
-  - Email: viniciusvieiradacosta33@gmail.com
+Estou sempre em busca de novas oportunidades e desafios.  
+Se quiser trocar uma ideia sobre tecnologia, BI, ou até mesmo esportes, bora conversar! 😄  
 
-[![20Facebook](https://img.shields.io/badge/•%20Facebook-blue?style=for-the-badge&logo=•%20Facebook&logoColor=white)](https://www.facebook.com/vinicius.viera.9674)
+- **📧 Email:** viniciusvieiradacosta33@gmail.com  
 
-
-[![instagram](https://img.shields.io/badge/instagram-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viny_offh/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vinicius.viera.9674)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viny_offh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vieira-da-costa)
 
 </div>
-
