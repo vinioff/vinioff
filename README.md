@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center;">
 
 # 👋 Bem-vindo! Eu sou Vinicius 🚀  
-<img src="https://media.tenor.com/0a0a0a0a0a0a.gif" alt="Gatinho GIF" width="50" style="margin-left: 10px;">  
 
 ## (●'◡'●) Sobre mim
 
