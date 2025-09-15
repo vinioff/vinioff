@@ -1,6 +1,7 @@
 <div style="display: flex; align-items: center;">
-  
+
 # 👋 Bem-vindo! Eu sou Vinicius 🚀  
+<img src="https://i.pinimg.com/originals/af/f9/7e/aff97e165dc23989b23e0435380a5130.gif" alt="Gatinho GIF" width="50" style="margin-left: 10px;">  
 
 ## (●'◡'●) Sobre mim
 
@@ -86,8 +87,9 @@ Estou sempre em busca de novas oportunidades e desafios.
 Se quiser trocar uma ideia sobre tecnologia, BI, ou até mesmo esportes, bora conversar! 😄  
 
 - **📧 Email:** viniciusvieiradacosta33@gmail.com  
+- **🌐 Portfólio:** [https://vinioff.github.io/webportfolio/](https://vinioff.github.io/webportfolio/)  
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vinicius.viera.9674)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vinicius.viera.9674)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vieira-da-costa)
 
 </div>
