@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
 
 # 👋 Bem-vindo! Eu sou Vinicius 🚀  
-<img src="https://i.pinimg.com/originals/af/f9/7e/aff97e165dc23989b23e0435380a5130.gif" alt="Gatinho GIF" width="50" style="margin-left: 10px;">  
+<img src="https://c.tenor.com/Ir8I2L6dT9oAAAAj/cat-kitten.gif" alt="Gatinho GIF" width="50" style="margin-left: 10px;">  
 
 ## (●'◡'●) Sobre mim
 
