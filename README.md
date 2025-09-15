@@ -67,8 +67,8 @@ A proposta foi criar um **site** e um **aplicativo mobile** que facilitassem o a
 ✨ O destaque fica para o **Chatbot inteligente**, que trouxe mais agilidade, disponibilidade 24/7 e eficiência no suporte ao cliente.  
 👉 Atuei como **desenvolvedor mobile**, **web** e também participei do **design das interfaces**, garantindo uma experiência moderna e acessível.  
 
-- 🌐 [Cat-Assist-Web](https://github.com/PabloCamiloJesus/cat-assist-web)  
-- 📱 [Cat-Assist-Mobile](https://github.com/PabloCamiloJesus/CAT-Assist-Mobile)  
+- 🌐 [Cat-Assist-Web](https://github.com/vinioff/CAT-Assist-Web.git)  
+- 📱 [Cat-Assist-Mobile](https://github.com/vinioff/CAT-Assist-Mobile.git)  
 
 ---
 
