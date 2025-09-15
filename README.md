@@ -37,7 +37,6 @@ Formado como **Técnico em Desenvolvimento de Sistemas pelo SENAI Jacob Lafer**,
     <td align="center"><strong>Banco de Dados</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
     </td>
   </tr>
